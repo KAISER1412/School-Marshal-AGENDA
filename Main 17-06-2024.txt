@@ -1,0 +1,38 @@
+# Importamos las librerías necesarias para la interfaz
+#Creación  de la página de carga 
+	# Te manda directamente a la página de Login
+#Creación de página de Login 
+	#Función para declarar evento de inicio de sesión
+		#Obtener datos del texto1 de usuario 
+		#Obtener datos del texto2 de contraseña
+
+		#verificación de usuario y contraseña
+			#Nos manda a la página de inicio
+			#Muestra mensaje error en datos
+#Se crea la función “Restablecer contraseña y/o Usuario”
+	#Obtener Datos del Texto1 de Usuario en caso de que se restablezca usuario 
+	#Obtener Datos del Texto1 de Contraseña en caso de que se restablezca contraseña
+	#para cambio de usuario y/o contraseña se requiere correo
+#Página Principal
+	#Se muestra el menú de interacción para el usuario
+	#Días
+		#Se muestran las actividades que el usuario 
+			#función de eliminar actividad
+			#función de cambiar hora
+	#Logros
+		#cada que realice cierto número de actividades se otorga un logro
+		#Se visualizan los logros obtenidos y los totales
+
+	#Agregar
+		#Nos da la opción de escoger el día al que lo vas a agregar
+		# función de especificar Hora 
+		# repetir en caso de que la tarea lo necesite
+
+	#Configuración
+		#Fondo
+			#El usuario puede personalizar el color del fondo de la aplicación
+		#Letra
+			#El usuario puede personalizar la fuente y el color
+		#Más
+		#El usuario puede cambiar el color de la tarea y el sonido de la 
+	#notificación 
