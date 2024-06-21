@@ -1,0 +1,62 @@
+#Configuración
+        #Fondo
+             #Se agrego un color (Rojo).
+             #Se agrego un color (Rosa).
+             #Se agrego un color (Purpura).
+             #Se agrego un color (Morado).
+             #Se agrego un color (Azul).
+             #Se agrego un color (Azul marino).
+             #Se agrego un color (Azul claro).
+             #Se agrego un color (Cian).
+             #Se agrego un color (Celeste).
+             #Se agrego un color (Verde).
+             #Se agrego un color (Verde fuerte).
+             #Se agrego un color (Verde claro).
+             #Se agrego un color (Verde lima).
+             #Se agrego un color (Amarillo).
+             #Se agrego un color (Ambar).
+             #Se agrego un color (Naranja).
+             #Se agrego un color (Naranja fuerte).
+             #Se agrego un color (Cafe).
+             #Se agrego un color (Gris).
+        #Letra
+             #Se agrego un color (Rojo).
+             #Se agrego un color (Rosa).
+             #Se agrego un color (Purpura).
+             #Se agrego un color (Morado).
+             #Se agrego un color (Azul).
+             #Se agrego un color (Azul marino).
+             #Se agrego un color (Azul claro).
+             #Se agrego un color (Cian).
+             #Se agrego un color (Celeste).
+             #Se agrego un color (Verde).
+             #Se agrego un color (Verde fuerte).
+             #Se agrego un color (Verde claro).
+             #Se agrego un color (Verde lima).
+             #Se agrego un color (Amarillo).
+             #Se agrego un color (Ambar).
+             #Se agrego un color (Naranja).
+             #Se agrego un color (Naranja fuerte).
+             #Se agrego un color (Cafe).
+             #Se agrego un color (Blanco).
+        #Mas
+             #Se agrego un color para las tareas (Rojo).
+             #Se agrego un color para las tareas (Rosa).
+             #Se agrego un color para las tareas (Purpura).
+             #Se agrego un color para las tareas (Morado).
+             #Se agrego un color para las tareas (Azul).
+             #Se agrego un color para las tareas (Azul marino).
+             #Se agrego un color para las tareas (Azul claro).
+             #Se agrego un color para las tareas (Cian).
+             #Se agrego un color para las tareas (Celeste).
+             #Se agrego un color para las tareas (Verde).
+             #Se agrego un color para las tareas (Verde fuerte).
+             #Se agrego un color para las tareas (Verde claro).
+             #Se agrego un color para las tareas (Verde lima).
+             #Se agrego un color para las tareas (Amarillo).
+             #Se agrego un color para las tareas (Ambar).
+             #Se agrego un color para las tareas (Naranja).
+             #Se agrego un color para las tareas (Naranja fuerte).
+             #Se agrego un color para las tareas (Cafe).
+             #Se agrego un color para las tareas (Gris).
+ 
