@@ -1,0 +1,55 @@
+# Importamos las librerías necesarias para la interfaz
+#Creación  de la página de carga con Una imagen atractiva y motivadora que represente la organización y la productividad.
+	# Te manda directamente a la página de Login
+#Creación de página de Login 
+	#Función para declarar evento de inicio de sesión
+		#Obtener datos del texto1 de usuario 
+		#Obtener datos del texto2 de contraseña
+-Página de carga:
+
+-Imagen de fondo atractiva y motivadora que represente la organización y la productividad.
+-Barra de carga animada que indique al usuario que la aplicación se está cargando.
+-Texto de bienvenida breve y claro que invite al usuario a iniciar sesión.
+-Botón de inicio de sesión grande y visible que lleve al usuario a la página de inicio de sesión.
+		#verificación de usuario y contraseña 
+Un formulario simple con campos para ingresar el nombre de usuario y la contraseña.
+
+ #Nos manda a la página de inicio 
+-Formulario de inicio de sesión simple con campos para ingresar el nombre de usuario y la contraseña.
+-Etiqueta de nombre de usuario que indique claramente el campo para ingresar el nombre de usuario.
+-Campo de entrada de texto donde el usuario pueda ingresar su nombre de usuario.
+-Etiqueta de contraseña que indique claramente el campo para ingresar la contraseña.
+-Campo de entrada de contraseña donde el usuario pueda ingresar su contraseña.
+-Botón que permita al usuario iniciar sesión en la aplicación.
+ #Muestra mensaje error en datos 
+#Se crea la función “Restablecer contraseña y/o Usuario” -Un enlace que lleve al usuario a una página para restablecer su contraseña en caso de que la haya olvidado
+	#Obtener Datos del Texto1 de Usuario en caso de que se restablezca usuario 
+	#Obtener Datos del Texto1 de Contraseña en caso de que se restablezca contraseña -Un formulario que permita al usuario restablecer su contraseña.
+	#para cambio de usuario y/o contraseña se requiere correo -Una etiqueta que indique claramente el campo para ingresar la dirección de correo electrónico asociada a la cuenta.
+#Página Principal
+	#Se muestra el menú de interacción para el usuario -Menú principal de navegación que permita al usuario acceder a las diferentes secciones de la aplicación.
+	#Días 
+                -Una lista que muestre los días de la semana.
+		#Se muestran las actividades que el usuario -Para cada día, una lista que muestre las actividades programadas para ese día.
+                -Un botón que permita al usuario agregar una nueva actividad a un día específico.
+
+			#función de eliminar actividad -Un botón para que el usuario pueda eliminar una actividad.
+			#función de cambiar hora -Un botón para que el usuario pueda cambiar la hora de una actividad.
+	#Logros
+		#cada que realice cierto número de actividades se otorga un logro -Lista de logros que muestre los logros obtenidos por el usuario.
+		#Se visualizan los logros obtenidos y los totales -Barra de progreso que indique al usuario qué tan cerca está de alcanzar el siguiente logro.
+
+	#Agregar
+		#Nos da la opción de escoger el día al que lo vas a agregar
+		# función de especificar Hora 
+		# repetir en caso de que la tarea lo necesite
+
+	#Configuración
+		#Fondo
+			#El usuario puede personalizar el color del fondo de la aplicación -Un selector de color que permita al usuario personalizar el color de fondo de la aplicación.
+		#Letra
+#El usuario puede personalizar la fuente y el color -Un selector de fuentes y un selector de color que permitan al usuario personalizar la fuente y el color de la letra de la aplicación.
+		#Más
+		#El usuario puede cambiar el color de la tarea y el sonido de la 
+	#notificación  - Un selector de sonidos que permita al usuario personalizar el sonido de las notificaciones de la aplicación.
+          -Un selector de color que permita al usuario personalizar el color de las tareas en la aplicación
